@@ -1,3 +1,11 @@
+# DivExp.py
+This Python program demonstrates how to perform division with error handling using assertions and custom exception handling. It ensures that the input values are valid and handles errors like division by zero.
+
+Features
+- Asserts that the numerator is greater than 0.
+- Raises a `ZeroDivisionError` if the denominator is zero.
+- Takes user input for the numerator and denominator and calculates the division result.
+
 # factorial.py
 This Python program calculates the binomial coefficient.
 
