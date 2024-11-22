@@ -10,6 +10,7 @@ Features
 This simple Python script converts a temperature value from Celsius to Fahrenheit.
 
 Description
+
 This program takes a temperature in Celsius and converts it to Fahrenheit using the formula:
 
                           𝐹=𝐶×1.8+32
