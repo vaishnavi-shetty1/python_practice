@@ -6,6 +6,19 @@ Features
 - Raises a `ZeroDivisionError` if the denominator is zero.
 - Takes user input for the numerator and denominator and calculates the division result.
 
+# cel-to-fah.py
+This simple Python script converts a temperature value from Celsius to Fahrenheit.
+
+Description
+This program takes a temperature in Celsius and converts it to Fahrenheit using the formula:
+
+                          𝐹=𝐶×1.8+32
+Where:
+- 𝐶 is the temperature in Celsius
+- 𝐹 is the temperature in Fahrenheit
+  
+For example, if you input 37.5°C, the program will output 99.5°F.
+
 # factorial.py
 This Python program calculates the binomial coefficient.
 
