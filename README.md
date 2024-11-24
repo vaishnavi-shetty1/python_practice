@@ -29,3 +29,12 @@ Features
 * Calculates the binomial coefficient 𝐶(𝑛,𝑟) using the factorial formula.
 * User-friendly input prompts to enter values for n and r.
 * Outputs the result rounded to three decimal places.
+
+# number_sum
+This Python program calculates the sum of natural numbers from 1 to a user-provided number. It takes an input from the user, checks if it's a positive integer, and then computes the sum using a while loop.
+
+Features
+- Prompts the user to input a number.
+- Validates if the input is a positive integer.
+- Calculates the sum of all natural numbers up to the input number using a while loop.
+- Displays the result of the sum.
