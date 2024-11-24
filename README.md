@@ -30,6 +30,14 @@ Features
 * User-friendly input prompts to enter values for n and r.
 * Outputs the result rounded to three decimal places.
 
+# number
+This Python program checks whether a given number is positive, negative, or zero. The program prompts the user to input a number, and based on the input, it prints an appropriate message.
+
+Features
+- Prompts the user to input a number.
+- Checks if the number is positive, negative, or zero.
+- Outputs a message corresponding to the input number's sign.
+
 # number_sum
 This Python program calculates the sum of natural numbers from 1 to a user-provided number. It takes an input from the user, checks if it's a positive integer, and then computes the sum using a while loop.
 
