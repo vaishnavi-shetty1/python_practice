@@ -30,6 +30,20 @@ Features
 * User-friendly input prompts to enter values for n and r.
 * Outputs the result rounded to three decimal places.
 
+# fibonacci.py
+This Python program generates the Fibonacci sequence up to a user-defined number of terms.
+
+Description
+
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1. The sequence looks like this: 0, 1, 1, 2, 3, 5, 8, 13, ...
+
+This script prompts the user to input the number of terms they want to generate, then calculates and displays the Fibonacci sequence up to that number.
+
+Features
+- Prompts the user to input the number of terms.
+- Handles invalid input (e.g., negative or zero terms).
+- Displays the Fibonacci sequence up to the specified number of terms.
+
 # number
 This Python program checks whether a given number is positive, negative, or zero. The program prompts the user to input a number, and based on the input, it prints an appropriate message.
 
